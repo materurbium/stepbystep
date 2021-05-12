@@ -2,8 +2,9 @@
 
 This page describes how to withdraw money from an Automated Teller Machine (ATM).
 
+### What 
+
 ![alt text](bank1.png)
-Figure 1: Diagram of an Automated Teller Machine
 
 An ATM consists of the following:
 - Screen Buttons: where you select options on the display screen
@@ -21,36 +22,24 @@ Before using an ATM, you should be aware of the following limitations:
 - There may be a transaction fee for withdrawing money from an ATM outside your bank’s network. For more information about transaction fees, see Table 1: Fees in Chapter 9, Terms and Conditions.
 
 To withdraw money:
-Put your card in the Card Reader as shown in the following figure: 
 
-Figure 2: Inserting ATM card
-On the Display Screen, press the Screen Button next to English.
-Enter your Password on the Keypad and click OK. One of the following occurs:
-If the password is invalid, you will have two more chances to enter a valid password before your card is blocked and the transaction ends.
-If the password is accepted, the following window opens:
-
-
-Figure 3: Selecting a Transaction
-
-Select Cash Withdrawal.
-The following window opens:
-
-Figure 4: Selecting Withdrawal Amount
-Press the Screen Button next to the dollar amount.
-The money is dispensed.
-
-Take your money from the Cash Dispenser.
-
-The following window opens:
-
-Figure 4: Receipt of Transaction
-For a printed receipt of your transaction, press the screen button next to Yes.
-The receipt is printed and dispensed at the Receipt Printer.
-The following window opens:
-
-Figure 5: Perform Another Transaction
-
-To finish the transaction, press the screen button next to No.
-Your ATM card is dispensed. 
-Take your card from the Card Dispenser.
-The transaction is complete.
+1. Put your card in the Card Reader as shown in the following figure: 
+  ![alt text](bank2.png)
+3. On the Display Screen, press the Screen Button next to English.
+4. Enter your Password on the Keypad and click OK. One of the following occurs:
+    - If the password is invalid, you will have two more chances to enter a valid password before your card is blocked and the transaction ends.
+    - If the password is accepted, the following window opens:
+  ![alt text](bank2.png)
+1. Select Cash Withdrawal.
+  The following window opens:
+  ![alt text](bank2.png)
+1. Press the Screen Button next to the dollar amount.
+  The money is dispensed.
+1. Take your money from the Cash Dispenser.
+  The following window opens:
+  ![alt text](bank2.png)
+1. For a printed receipt of your transaction, press the screen button next to Yes. 
+2. Take the receipt is printed and dispensed at the Receipt Printer. The following window opens: 
+![alt text](bank2.png)
+1. To finish the transaction, press the screen button next to No. Your ATM card is dispensed. 
+1. Take your card from the Card Dispenser. The transaction is complete.
