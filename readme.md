@@ -2,24 +2,28 @@
 
 This page describes how to withdraw money from an Automated Teller Machine (ATM).
 
-### What 
+### ATM Terminology
 
 ![alt text](bank1.png)
 
-An ATM consists of the following:
+An ATM consists of the following parts:
 - Screen Buttons: where you select options on the display screen
 - Receipt Printer: where you retrieve your receipt
 - Card Reader: where you insert your ATM card
 - peaker: where blind customers hear voice commands
 - Keypad: where you enter your password and other numeric values such as dollar amount
-- Deposit Slot: where you deposit money to the bank (for more information about deposits, see Chapter 8, Depositing Money using ATM)
+- Deposit Slot: where you deposit money to the bank
 - Cash Dispenser: where you retrieve your money
 - Display Screen: where you view options for the transaction such as language and dollar amount
 
 Before using an ATM, you should be aware of the following limitations:
 - The amount you are allowed to withdraw may be subject to a daily limit.
 - You must have a valid ATM card which is not blocked.
-- There may be a transaction fee for withdrawing money from an ATM outside your bank’s network. For more information about transaction fees, see Table 1: Fees in Chapter 9, Terms and Conditions.
+- There may be a transaction fee for withdrawing money from an ATM outside your bank’s network.
+
+### Withdraw Money
+
+Follow the steps in this section to withdraw money from an ATM.
 
 To withdraw money:
 
@@ -30,9 +34,10 @@ To withdraw money:
     - If the password is invalid, you will have two more chances to enter a valid password before your card is blocked and the transaction ends.
     - If the password is accepted, the following window opens:
   ![alt text](bank3.png)
-1. Select Cash Withdrawal.
+5. Select Cash Withdrawal.
+  The following window opens:
+  ![alt text](bank4.png)
 2. Press the Screen Button next to the dollar amount.
-      ![alt text](bank4.png)
 4. The money is dispensed.
 5. Take your money from the Cash Dispenser.
   The following window opens:
