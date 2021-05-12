@@ -10,7 +10,7 @@ An ATM consists of the following parts:
 - Screen Buttons: where you select options on the display screen
 - Receipt Printer: where you retrieve your receipt
 - Card Reader: where you insert your ATM card
-- peaker: where blind customers hear voice commands
+- Speaker: where blind customers hear voice commands
 - Keypad: where you enter your password and other numeric values such as dollar amount
 - Deposit Slot: where you deposit money to the bank
 - Cash Dispenser: where you retrieve your money
@@ -35,9 +35,10 @@ To withdraw money:
     - If the password is accepted, the following window opens:
    ![alt text](bank3.png)
 5. Select Cash Withdrawal.
-7. Press the Screen Button next to the dollar amount.
-8. The money is dispensed.
-9. Take your money from the Cash Dispenser.
+7. Press the Screen Button next to the dollar amount you want.
+  ![alt text](bank4.png)
+9. The money is dispensed.
+10. Take your money from the Cash Dispenser.
   The following window opens:
   ![alt text](bank5.png)
 1. For a printed receipt of your transaction, press the screen button next to Yes. 
