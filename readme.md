@@ -2,7 +2,7 @@
 
 This page describes how to withdraw money from an Automated Teller Machine (ATM).
 
-![alt text](Isolated.png "Title")
+![alt text](bank1.png "Title")
 Figure 1: Diagram of an Automated Teller Machine
 
 An ATM consists of the following:
