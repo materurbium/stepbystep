@@ -35,7 +35,6 @@ To withdraw money:
     - If the password is accepted, the following window opens:
    ![alt text](bank3.png)
 5. Select Cash Withdrawal.
-   ![alt text](bank4.png)
 7. Press the Screen Button next to the dollar amount.
 8. The money is dispensed.
 9. Take your money from the Cash Dispenser.
