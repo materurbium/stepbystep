@@ -33,13 +33,12 @@ To withdraw money:
 4. Enter your Password on the Keypad and click OK. One of the following occurs:
     - If the password is invalid, you will have two more chances to enter a valid password before your card is blocked and the transaction ends.
     - If the password is accepted, the following window opens:
-  ![alt text](bank3.png)
+   ![alt text](bank3.png)
 5. Select Cash Withdrawal.
-  The following window opens:
-  ![alt text](bank4.png)
-2. Press the Screen Button next to the dollar amount.
-4. The money is dispensed.
-5. Take your money from the Cash Dispenser.
+   ![alt text](bank4.png)
+7. Press the Screen Button next to the dollar amount.
+8. The money is dispensed.
+9. Take your money from the Cash Dispenser.
   The following window opens:
   ![alt text](bank5.png)
 1. For a printed receipt of your transaction, press the screen button next to Yes. 
